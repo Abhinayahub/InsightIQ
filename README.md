@@ -72,6 +72,23 @@ The report contains three pages:
 4. Run the notebook cells in order, adjusting file paths if necessary.
 5. Open `InsightIQ.pbix` using Power BI Desktop to explore the dashboard.
 
+## 📊 Power BI Dashboard Preview
+
+### 1. Executive Overview
+![Executive Overview](Executive_overview.png)
+
+### 2. Customer Intelligence
+![Customer Intelligence](Customer_Intelligence.png)
+
+### 3. Predictive Analytics
+![Predictive Analytics](Predictive_Analysis.png)
+
+## 📁 Power BI Report
+
+Download the report file from this repository: [InsightIQ_Final.pbix](InsightIQ_Final.pbix)
+
+Open it using Power BI Desktop to explore the interactive dashboard.
+
 ## Future Improvements
 
 - Improve predictive model performance through feature engineering and hyperparameter tuning.
