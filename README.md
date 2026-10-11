@@ -75,7 +75,7 @@ The report contains three pages:
 ## 📊 Power BI Dashboard Preview
 
 ### 1. Executive Overview
-![Executive Overview](Executive_overview.png)
+![Executive Overview](Executive_Overview.png)
 
 ### 2. Customer Intelligence
 ![Customer Intelligence](Customer_Intelligence.png)
