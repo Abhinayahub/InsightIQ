@@ -74,20 +74,20 @@ The report contains three pages:
 
 ## 📊 Power BI Dashboard Preview
 
-### 1. Executive Overview
-![Executive Overview](Executive_Overview.png)
+### Executive Overview
+![Executive Overview](Executive%20Overview.png)
 
-### 2. Customer Intelligence
-![Customer Intelligence](Customer_Intelligence.png)
+### Customer Intelligence
+![Customer Intelligence](Customer%20Intelligence.png)
 
-### 3. Predictive Analytics
-![Predictive Analytics](Predictive_Analysis.png)
+### Predictive Analytics
+![Predictive Analytics](Predictive%20Analysis.png)
 
 ## 📁 Power BI Report
 
-Download the report file from this repository: [InsightIQ_Final.pbix](InsightIQ_Final.pbix)
+[Download the interactive Power BI report](InsightIQ_Final.pbix)
 
-Open it using Power BI Desktop to explore the interactive dashboard.
+Open the report using Power BI Desktop to explore the dashboard.
 
 ## Future Improvements
 
